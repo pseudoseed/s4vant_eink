@@ -1,11 +1,9 @@
 {
   "qr_url": "http://s4vant.com/",
-  "header_image_url": "https://yourcdn.com/images/audi-s4avant-header.png",
-  "vote_start": "2025-06-15T09:00:00-06:00",
-  "vote_end": "2025-06-15T17:00:00-06:00",
-  "registration": "S4AVANT-01",
   "car_name": "2012 Audi S4 Avant",
   "car_nickname": "S4VANT",
+  "registration": "S4AVANT-01",
+  "image": "https://raw.githubusercontent.com/pseudoseed/s4vant_eink/main/s4avant.png",
   "socials": {
     "instagram": "@s4avant",
     "youtube": "https://youtube.com/s4avant",
@@ -13,24 +11,14 @@
   },
   "build_list": [
     "034 Motorsports Mounts and Bushings",
-    "Öhlins Street & Track Suspension",
+    "Ohlins Street & Track Suspension",
     "OEM Euro Tail Lights",
-    "Stage 2+ 3.0 TFSI Supercharged V6",
-    "6-speed Manual Transmission",
-    "Active Sport Rear Differential",
-    "Titanium/Prestige Trim Package",
-    "Factory-Like S4 ECU and Module Integration",
-    "Retrofit Euro Wiring Harness",
-    "Single Example in the U.S."
+    "6-speed Manual Transmission"
   ],
   "voting_message": {
     "top": "Voting ends soon.",
-    "bottom": "Don't procrastinate"
+    "bottom": "Don’t procrastinate"
   },
-  "style": {
-    "font_large": "FreeSansBold12pt7b",
-    "font_small": "FreeMonoBold9pt7b",
-    "qr_scale": 4,
-    "rotation": 0
-  }
+  "vote_start": "2025-06-15T09:00:00-06:00",
+  "vote_end": "2025-06-15T11:00:00-06:00"
 }
