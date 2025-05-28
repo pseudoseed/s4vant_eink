@@ -2,12 +2,11 @@
   "qr_url": "http://s4avant.com/",
   "car_name": "2012 Audi S4 Avant",
   "car_nickname": "S4VANT",
-  "registration": "S4AVANT-01",
+  "registration": "420",
   "image": "https://raw.githubusercontent.com/pseudoseed/s4vant_eink/main/s4avant.png",
   "socials": {
     "instagram": "@s4avant",
-    "youtube": "https://youtube.com/s4avant",
-    "tiktok": "@s4avanttok"
+    "youtube": "https://youtube.com/s4avant"
   },
   "build_list": [
     "034 Motorsports Mounts and Bushings",
@@ -16,9 +15,9 @@
     "6-speed Manual Transmission"
   ],
   "voting_message": {
-    "main":"Scan to Vote!",
-    "top": "Voting ends soon.",
-    "bottom": "Don’t procrastinate"
+    "main":"SCAN TO VOTE!",
+    "top": "A ton of work went into this project",
+    "bottom": "Your vote would mean a lot!"
   },
   "vote_start": "2025-05-27T10:00:00",
   "vote_end": "2025-05-27T23:30:00"
