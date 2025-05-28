@@ -16,9 +16,10 @@
     "6-speed Manual Transmission"
   ],
   "voting_message": {
+    "main":"Scan to Vote!",
     "top": "Voting ends soon.",
     "bottom": "Don’t procrastinate"
   },
   "vote_start": "2025-05-27T10:00:00",
-  "vote_end": "2025-05-27T15:30:00"
+  "vote_end": "2025-05-27T23:30:00"
 }
