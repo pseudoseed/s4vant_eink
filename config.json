@@ -15,9 +15,9 @@
     "6-speed Manual Transmission"
   ],
   "voting_message": {
-    "main":"SCAN TO VOTE!",
-    "top": "A ton of work went into this project",
-    "bottom": "Your vote would mean a lot!"
+    "upper":"SCAN TO VOTE!",
+    "top": "We love this build. Do you?",
+    "bottom": "Prove it. Cast your vote!"
   },
   "vote_start": "2025-05-27T10:00:00",
   "vote_end": "2025-05-27T23:30:00"
