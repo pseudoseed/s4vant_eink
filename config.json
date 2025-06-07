@@ -28,7 +28,7 @@
   "voting_message": {
     "upper":"SCAN TO VOTE!",
     "top": "Admiring the OEM+ Look?",
-    "bottom": "Cast your vote!"
+    "bottom": "    Cast your vote!"
   },
   "vote_start": "2025-06-07T10:00:00",
   "vote_end": "2025-06-07T13:00:00"
