@@ -1,7 +1,7 @@
 {
   "qr_url": "https://carshow.vote/3hb3x",
   "car_name": "2012 Audi S4 Avant",
-  "car_nickname": "S 4 V A N T",
+  "car_nickname": "German Hellcat",
   "car_lore": "One-of-One US Model, Never Imported",
   "registration": {
     "title": "Registration Number: ",
@@ -15,19 +15,20 @@
   "build_list": [
     "034 Motorsports Mounts and Bushings",
     "Ohlins Street & Track Suspension",
-    "OEM Euro Tail Lights",
+    "Euro Tail Lights",
     "6-speed Manual Transmission",
     "034 Stage 2+ Tune", 
     "JXB Ultimate Shift Kit",
     "B8.5 Steering Wheel",
     "Prestige Titanium Package",
-    "All the Audi Tax",
-    "3 10mm Sockets"
+    "Audi Tax Galore",
+    "Sports Differential",
+    "Literally built from a bare unibody"
   ],
   "voting_message": {
     "upper":"SCAN TO VOTE!",
-    "top": "We love this build. Do you?",
-    "bottom": "Prove it. Cast your vote!"
+    "top": "Admiring the OEM+ Look?",
+    "bottom": "Share the love -- Cast your vote!"
   },
   "vote_start": "2025-06-07T10:00:00",
   "vote_end": "2025-06-07T13:00:00"
