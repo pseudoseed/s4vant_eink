@@ -1,5 +1,5 @@
 {
-  "qr_url": "https://forms.gle/zD23Sdn9WXUaF4sc7",
+  "qr_url": null,
   "car_name": "2012 Audi S4 Avant",
   "car_nickname": "German Hellcat",
   "car_lore": "One-of-One US Model, Never Imported",
@@ -31,5 +31,6 @@
     "bottom": "    Cast your vote!"
   },
   "vote_start": "2025-07-12T22:40:00",
-  "vote_end": "2025-07-12T23:55:00"
+  "vote_end": "2025-07-12T23:55:00",
+  "class": "Foreign" 
 }
