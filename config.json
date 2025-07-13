@@ -25,12 +25,12 @@
     "Ultimate Grocery Getter"
   ],
   "voting_message": {
-    "upper":"SCAN TO VOTE!",
+    "upper":"",
     "top": "Admiring the OEM+ Look?",
     "bottom": "    Cast your vote!"
   },
   "vote_start": "2025-07-13T10:0:00",
   "vote_end": "2025-07-13T13:00:00",
-  "class": "Swapped not Imported",
+  "class": "Swapped",
   "class_header": "Class: "
 }
