@@ -5,7 +5,7 @@
   "car_lore": "One-of-One US Model, Never Imported",
   "registration": {
     "title": "Registration Number: ",
-    "number" : "10"
+    "number" : "28"
   },
   "image": "https://raw.githubusercontent.com/pseudoseed/s4vant_eink/main/s4avant.png",
   "socials": {
@@ -21,9 +21,8 @@
     "JXB Ultimate Shift Kit",
     "B8.5 Steering Wheel",
     "Prestige Titanium Package",
-    "Audi Tax Galore",
     "Sports Differential",
-    "Literally built from a bare unibody"
+    "Ultimate Grocery Getter"
   ],
   "voting_message": {
     "upper":"SCAN TO VOTE!",
@@ -32,6 +31,6 @@
   },
   "vote_start": "2025-07-13T10:0:00",
   "vote_end": "2025-07-13T13:00:00",
-  "class": "Foreign",
+  "class": "Swapped not Imported",
   "class_header": "Class: "
 }
