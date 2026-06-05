@@ -1,11 +1,11 @@
 {
-  "qr_url": "",
+  "qr_url": "https://placrd.app/vote/5e9680cb-01c8-4af5-b389-39c6da87dc27/entry/CAR-0038",
   "car_name": "2012 Audi S4 Avant",
   "car_nickname": "German Hellcat",
   "car_lore": "One-of-One US Model",
   "registration": {
     "title": "Registration Number: ",
-    "number" : "CAR-0038"
+    "number" : "38"
   },
   "image": "https://raw.githubusercontent.com/pseudoseed/s4vant_eink/main/s4avant.png",
   "socials": {
