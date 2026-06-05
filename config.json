@@ -37,5 +37,5 @@
   "class_header": "Event:",
   "event_name": "Johnstown BBQ Days",
   "refresh_interval": 5,
-  "full_refresh_every": 15
+  "full_refresh_every": 30
 }
