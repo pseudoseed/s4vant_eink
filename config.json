@@ -2,7 +2,7 @@
   "qr_url": "https://placrd.app/vote/5e9680cb-01c8-4af5-b389-39c6da87dc27/entry/CAR-0038",
   "car_name": "2012 Audi S4 Avant",
   "car_nickname": "German Hellcat",
-  "car_lore": "One-of-One US Model",
+  "car_lore": "The Forbidden Wagon",
   "registration": {
     "title": "Registration Number: ",
     "number" : "38"
@@ -13,16 +13,18 @@
     "Youtube": "youtu.be/s4avant"
   },
   "build_list": [
-    "034 Motorsports Mounts and Bushings",
+    "Prestige Titanium Package",
+    "034 Dual Pulley", 
     "Ohlins Street & Track Suspension",
     "OEM Euro Tail Lights",
     "6-speed Manual Transmission",
-    "034 Dual Pulley Tune", 
     "JXB Ultimate Shift Kit",
     "Custom B8.5 Steering Wheel",
-    "Prestige Titanium Package",
     "Sports Differential",
-    "MercRacing Head Exchanger"
+    "MercRacing Heat Exchanger",
+    "034 Motorsports Mounts and Bushings",
+    "Panda S4 Interrior",
+    "Factory Spec S4 Avant"
   ],
   "voting_message": {
     "upper":"________________",
