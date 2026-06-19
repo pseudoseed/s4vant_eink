@@ -1,11 +1,11 @@
 {
-  "qr_url": "https://placrd.app/vote/5e9680cb-01c8-4af5-b389-39c6da87dc27/entry/CAR-0038",
+  "qr_url": "",
   "car_name": "2012 Audi S4 Avant",
-  "car_nickname": "German Hellcat",
+  "car_nickname": "S4VANT",
   "car_lore": "The Forbidden Wagon",
   "registration": {
     "title": "Registration Number: ",
-    "number" : "38"
+    "number" : ""
   },
   "image": "https://raw.githubusercontent.com/pseudoseed/s4vant_eink/main/s4avant.png",
   "socials": {
@@ -31,11 +31,11 @@
     "top": "Admiring the OEM+ Look?",
     "bottom": "    Cast your vote!"
   },
-  "vote_start": "2026-06-06T10:00:00",
-  "vote_end": "2026-06-06T14:00:00",
-  "class": "BBQ Days",
+  "vote_start": "",
+  "vote_end": "",
+  "class": "",
   "class_header": "Event:",
-  "event_name": "Johnstown BBQ Days",
+  "event_name": "Pikes Peak Fan Fest",
   "refresh_interval": 5,
   "full_refresh_every": 30
 }
